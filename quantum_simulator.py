@@ -1,3 +1,8 @@
+"""This is not my code ATM, this is from https://barghouthi.github.io/2021/08/05/quantum/
+
+It is here only to grasp some ideas. It will be removed once my version will be done.
+"""
+
 import numpy as np
 
 
